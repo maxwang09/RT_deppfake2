@@ -1,5 +1,18 @@
 # Real time Image Animation
 The Project is real time application in opencv using first order model
+​​First Order Motion Model for Image Animation hooked up to a live camera!!
+
+You can animate any face with your own mimic from camera.
+
+This Project is real time application in #opencv using first order model.
+
+Credit: Anand Pawara
+
+Github: https://lnkd.in/eU4kymR
+
+
+Original work: https://lnkd.in/dNCSpz8
+.
 
 # Steps to setup
 
